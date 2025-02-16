@@ -27,14 +27,6 @@ interactively using rgl.
 🔹 **Customizable Focal Length** -- Allows adjustments to enhance
 accuracy based on different camera settings.
 
-**📂 Project Structure**
-
-📁 **data/** -- Stores sample depth maps  
-📁 **src/** -- Contains core scripts for processing  
-📄 **README.md** -- Comprehensive documentation  
-📄 **requirements.txt** -- Lists required R packages  
-📄 **main.R** -- The primary script to execute the project
-
 **📜 How It Works?**
 
 1️. **Load Depth Map**
